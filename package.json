@@ -1,0 +1,21 @@
+{
+  "name": "Y",
+  "version": "0.0.1",
+  "description": "This is a demo application used to store bookmarked events",
+  "cordova": {
+    "id": "cordova-plugin-redEyeBookMark",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "Y"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios"
+  ],
+  "author": "redEyeProgrammer",
+  "license": "Y"
+}
